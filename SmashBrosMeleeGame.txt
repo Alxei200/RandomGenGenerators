@@ -1,0 +1,172 @@
+$name : SSBM Game Generator
+$author : Alxei200
+$description: A few ideas for SSBM games.
+$amount: 1
+$button: Smashify!
+
+$character
+Play as Dr. Mario
+Play as Mario
+Play as Luigi
+Play as Bowser
+Play as Peach
+Play as Yoshi
+Play as DK
+Play as Captain Falcon
+Play as Ganondorf
+Play as Falco
+Play as Fox
+Play as Ness
+Play as Ice Climbers
+Play as Kirby
+Play as Samus
+Play as Zelda
+Play as Link
+Play as Young Link
+Play as Pichu
+Play as Pikachu
+Play as Jigglypuff
+Play as Mewtwo
+Play as Mr. Game and Watch
+Play as Marth
+Play as Roy
+
+$rule1
+Time: 1:00
+Time: 2:00
+Time: 3:00
+Time: 4:00
+Time: 5:00
+Time: 6:00
+Time: 8:00
+Time: 10:00
+Time: 15:00
+Time: 20:00
+Time: 25:00
+Time: 45:00
+Time: 50:00
+Time: 60:00
+Time: 75:00
+Time: 99:00
+Stock: 1
+Stock: 2
+Stock: 3
+Stock: 4
+Stock: 5
+Stock: 10
+Stock: 20
+Stock: 25
+Stock: 40
+Stock: 60
+Stock: 70
+Stock: 75
+Stock: 80
+Stock: 90
+Stock: 91
+Stock: 92
+Stock: 93
+Stock: 94
+Stock: 95
+Stock: 96
+Stock: 97
+Stock: 98
+Stock: 99
+
+$ratio
+Damage ratio is 0.5
+Damage ratio is 0.6
+Damage ratio is 0.7
+Damage ratio is 0.8
+Damage ratio is 0.9
+Damage ratio is 1.0
+Damage ratio is 1.1
+Damage ratio is 1.2
+Damage ratio is 1.3
+Damage ratio is 1.4
+Damage ratio is 1.5
+Damage ratio is 1.6
+Damage ratio is 1.7
+Damage ratio is 1.8
+Damage ratio is 1.9
+Damage ratio is 2.0
+
+$stage
+Icicle Mountain
+Princess Peach's Castle
+Kongo Jungle
+Termina Bay
+Yoshi's Story
+Fountain of Dreams
+Corneria
+Flat Zone
+Rainbow Cruise
+Jungle Japes
+Temple
+Yoshi's Island
+Green Greens
+Venom
+Brinstar
+Onett
+Mute City
+Pokémon Stadium
+Mushroom Kingdom
+Brinstar Depths
+Fourside
+Big Blue
+Poké Floats
+Mushroom Kingdom II
+Battlefield
+Final Destination
+Dream Land
+Kongo Jungle (Past)
+Yoshi's Island (Past)
+
+$items
+Only Food
+Only Maxim Tomatoes
+Only Heart Containers
+Only Warp Stars
+Only Ray Guns
+Only Super Scopes
+Only Fire Flowers
+Only Lip's Sticks
+Only Star Rods
+Only Beam Swords
+Only Home-Run Bats
+Only Fans
+Only Hammers
+Only Green Shells
+Only Red Shells
+Only Flippers
+Only Freezies
+Only Mr. Saturn
+Only Poké Balls
+Only Bob-ombs
+Only Motion Sensor Bombs
+Only Super Mushrooms
+Only Poison Mushrooms
+Only Starmans
+Only Parasols
+Only Screw Attacks
+Only Metal Boxes
+Only Bunny Hoods
+Only Cloaking Devices
+Only Barrel Cannons
+Only Party Balls
+Both Food, Maxim Tomatoes, and Heart Containers
+Both Ray Guns and Super Scopes
+Both Star Rods, Beam Swords, and Home-Run Bats
+Both Green Shells and Red Shells
+Both Bob-ombs and Motion Sensor Bombs
+All Items
+
+$rarity
+None
+Very Low
+Low
+Medium
+High
+Very High
+
+$smash
+[character]. The rules are [rule1], and [ratio]. [stage]. [items], [rarity].
