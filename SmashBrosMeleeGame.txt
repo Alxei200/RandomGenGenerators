@@ -30,6 +30,26 @@ Play as Mewtwo
 Play as Mr. Game and Watch
 Play as Marth
 Play as Roy
+Choose any character
+Choose between Dr. Mario or Mario
+Choose between Mario or Luigi
+Choose between Bowser or Donkey Kong
+Choose between Peach and Zelda
+Choose between Captain Falcon or Ganondorf
+Choose between Falco or Fox
+Choose between Kirby or Jigglypuff
+Choose between Link or Young Link
+Choose between Marth or Roy
+Choose between Dr. Mario, Mario or Luigi
+Choose between Bowser, Donkey Kong or Ganondorf
+Choose between Pikachu, Jigglypuff, or Mewtwo
+Play a ditto with another player
+Play a F Class character (Kirby, Pichu, Bowser, or Ness)
+Play a B- Class character (Mr. Game and Watch, Mewtwo, Roy, and Zelda)
+Play a B+ Class character (Yoshi, DK, Link, and Young Link)
+Play a A Class character (Mario, Luigi, Ganondorf, Samus, Pikachu, and Dr. Mario)
+Play a S- Class character (Ice Climbers, Captain Falcon, Peach, and Jigglypuff)
+Play a S+ Class character (Marth, Sheik, Falco, and Fox)
 
 $rule1
 Time: 1:00
