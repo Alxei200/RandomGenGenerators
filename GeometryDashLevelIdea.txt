@@ -1,0 +1,135 @@
+$name : Geometry Dash Level Idea Generator
+$author : Alxei200
+$description: Generates a idea for a Geometry Dash level.
+$amount: 1
+$button: Start Geometricization
+
+$song
+Bass Knight ~ BoomKitty
+Allure ~ Detious
+Golden Haze ~ Detious
+The Edge ~ Detious
+Theory of Everything ~ dj-nate
+Club Step ~ dj-nate
+Electrodynamix ~ dj-nate
+Robotic Nightmares ~ dj-nate
+Three Step ~ dj-nate
+Theory of Everything 2 ~ dj-nate
+Regret ~ dj-nate
+Level One ~ DjStriden
+Back on Track ~ DJVI
+Dry Out ~ DJVI
+Base After Base ~ DJVI
+Can't Let Go ~ DJVI
+Cycles ~ DJVI
+xStep ~ DJVI
+FireFrost ~ EnV
+Dynasty ~ EnV
+Pearlescent ~ EnV
+Uprise ~ EnV
+Reign ~ EnV (NameMySongForMe 4)
+Heaven Road 2 ~ EnV
+Heaven Road 3 ~ EnV
+Deadlocked ~ F-777
+Dance of the Violins ~ F-777
+Insomnia Remix ~ F-777
+Sonic Blaster ~ F-777
+This Isn't Science Rocket ~ F-777
+Stereo Madness ~ ForeverBound
+Aether ~ Jumper
+Whirlwind ~ Jumper
+Stalemate ~ KayosZX
+Lockout ~ Lockyn
+Sequence ~ Lockyn
+Soulwind ~ Lockyn
+Eternal Eclipse ~ OcularNebula
+Glittering Shores ~ OcularNebula
+Stay Inside Me ~ OcularNebula
+Chaoz Impact ~ ParagonX9
+Chaoz Fantasy ~ ParagonX9
+Infiltration ~ ParagonX9
+Chaoz Airflow ~ ParagonX9
+Jawbreaker ~ Rukkus
+Problematic ~ Rukkus
+For The Taking ~ Rukkus
+Fracture ~ Rukkus
+Nine Circles ~ Rukkus
+Fairydust ~ Rukkus
+Sine Wavs ~ Rukkus
+Spaceman ~ Rukkus
+Evil ~ Rukkus
+Astronaut 13 Remix ~ Rukkus
+Poltergeist ~ Rukkus
+211 ~ Rukkus
+Haunted ~ Shirk
+Polargeist ~ Step
+Unity ~ TheFatRat
+Time Lapse ~ TheFatRat
+Windfall ~ TheFatRat
+Never Be Alone ~ TheFatRat
+Infinite Power ~ TheFatRat
+Jumper ~ Waterflame
+Time Machine ~ Waterflame
+Clutterfunk ~ Waterflame
+Electroman Adventures ~ Waterflame
+Hexagon Force ~ Waterflame
+Final Battle ~ Waterflame
+Endgame ~ Waterflame
+Glorious Morning ~ Waterflame
+Supernova ~ Xtrullor
+Ichor ~ Xtrullor
+Redux ~ Xtrullor
+Screamroom ~ Xtrullor
+
+$speed
+Triple speed
+Double speed
+Normal speed
+Slow speed
+
+$dual
+
+Dual
+
+$mini
+
+Mini
+
+$mode
+Block
+Ship
+Ball
+UFO
+Wave
+Robot
+
+$guide
+Flashing colors
+Encouraging words
+Really fast
+Syncs well
+Maze-like
+Long jumps
+Lots of spikes
+
+$element1
+Blocks
+Invisible Block
+Platform
+Invisible Platform
+
+
+$colors
+
+$bg
+
+$ground
+
+$font
+
+$password
+
+$rating
+
+$idea
+Song: [song]<br/>Opening Mode: A [speed] [mini] [dual] [mode].<br/>Closing Mode: A [speed] [mini] [dual] [mode].<br/>Guiding Words: [guide]
