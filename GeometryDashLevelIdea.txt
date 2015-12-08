@@ -137,8 +137,18 @@ $ground
 $font
 
 $password
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
 $rating
 
 $idea
-Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors].
+Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Password: [ps][ps][ps][ps][ps][ps]
