@@ -136,7 +136,7 @@ $ground
 
 $font
 
-$password
+$ps
 0
 1
 2
