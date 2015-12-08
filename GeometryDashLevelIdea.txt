@@ -88,11 +88,11 @@ Normal speed
 Slow speed
 
 $dual
-
+ 
 Dual
 
 $mini
-
+ 
 Mini
 
 $mode
@@ -118,8 +118,17 @@ Invisible Block
 Platform
 Invisible Platform
 
-
 $colors
+Red
+Blue
+Green
+Yellow
+Orange
+Purple
+Black
+White
+Gray
+Rainbow
 
 $bg
 
@@ -132,4 +141,4 @@ $password
 $rating
 
 $idea
-Song: [song]<br/>Opening Mode: A [speed] [mini] [dual] [mode].<br/>Closing Mode: A [speed] [mini] [dual] [mode].<br/>Guiding Words: [guide]
+Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors].
