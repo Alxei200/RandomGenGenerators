@@ -235,5 +235,336 @@ Technology 2
 Toothpicks
 Tough Love
 
+$activate
+Anarchist Cookbook
+The Bean
+Bob's Rotten Head
+The Bible
+The Book of Belial
+The Book of Revelations
+The Book of Sin
+The Book of Shadows
+Dead Sea Scrolls
+Deck of Cards
+The Dice
+Doctor's Remote
+Forget Me Now
+The Gamekid
+The Hourglass
+Kamikaze!
+Lemon Mishap
+Mom's Bottle of Pills
+Mom's Bra
+Mom's Pad
+Monster Manual
+Monstro's Tooth
+Mr. Boom
+My Little Unicorn
+The Nail
+The Necronomicon
+A Pony
+The Poop
+Razor Blade
+The Pinking Shears
+Shoop Da Whoop!
+Tammy's Head
+Teleport!
+We Need To Go Deeper!
+Yum Heart
+Best Friend
+Blood Rights
+The Candle
+Crack The Sky
+Crystal Ball
+D20
+Dad's Key
+Guppy's Head
+Guppy's Paw
+IV Bag
+Notched Axe
+Portable Slot
+Player Card
+Remote Detonator
+Spider Butt
+Telepathy for Dummies
+White Pony
+
+$all
+Anarchist Cookbook
+The Bean
+Bob's Rotten Head
+The Bible
+The Book of Belial
+The Book of Revelations
+The Book of Sin
+The Book of Shadows
+Dead Sea Scrolls
+Deck of Cards
+The Dice
+Doctor's Remote
+Forget Me Now
+The Gamekid
+The Hourglass
+Kamikaze!
+Lemon Mishap
+Mom's Bottle of Pills
+Mom's Bra
+Mom's Pad
+Monster Manual
+Monstro's Tooth
+Mr. Boom
+My Little Unicorn
+The Nail
+The Necronomicon
+A Pony
+The Poop
+Razor Blade
+The Pinking Shears
+Shoop Da Whoop!
+Tammy's Head
+Teleport!
+We Need To Go Deeper!
+Yum Heart
+Best Friend
+Blood Rights
+The Candle
+Crack The Sky
+Crystal Ball
+D20
+Dad's Key
+Guppy's Head
+Guppy's Paw
+IV Bag
+Notched Axe
+Portable Slot
+Player Card
+Remote Detonator
+Spider Butt
+Telepathy for Dummies
+White Pony
+<3
+1UP
+9 Volt
+The Battery
+The Belt
+Blood Bag
+Blood of the Martyr
+Bobby-Bomb
+Bomb Bag
+Boom!
+Breakfast
+Brimstone
+Brother Bobby
+Bucket of Lard
+Charm of the Vampire
+Chocolate Milk
+The Common Cold
+The Compass
+Cube of Meat
+Cupid's Arrow
+Dead Bird
+Dead Cat
+Dessert
+Dinner
+Distant Admiration
+Demon Baby
+A Dollar
+Dr. Fetus
+Forever Alone
+Growth Hormones
+Guardian Angel
+The Halo
+Halo of Flies
+The Inner Eye
+The Ladder
+Little C.H.A.D.
+Little Chubby
+Little Gish
+Little Steve
+Loki's Horns
+Lord of the Pit
+Lucky Foot
+Lunch
+A Lump of Coal
+Magic Mushroom
+Magneto
+The Mark
+Max's Head
+Mini Mushroom
+Mom's Contacts
+Mom's Eye
+Mom's Heels
+Mom's Knife
+Mom's Lipstick
+Mom's Underwear
+Money = Power
+Mr. Mega
+My Reflection
+Number One
+Odd Mushroom (Large)
+Odd Mushroom (Thin)
+Ouija Board
+The Pact
+The Parasite
+Pentagram
+PHD
+A Quarter
+Raw Liver
+The Relic
+Robo-Baby
+Roid Rage
+Rosary
+Rotten Meat
+Sack of Pennies
+The Sad Onion
+Sister Maggy
+Skatole
+Skeleton Key
+The Small Rock
+Spelunker Hat
+Spider's Bite
+Spoon Bender
+Steam Sale
+Steven
+Super Bandage
+Technology
+Transcendence
+Treasure Map
+The Virus
+The Wafer
+Whore of Babylon
+Wiggle Worm
+Wire Coat Hanger
+Wooden Spoon
+XRay Vision
+3 Dollar Bill
+Abel
+Ankh
+The Black Bean
+Bloody Lust
+Bob's Curse
+Box
+Bum Friend
+Cat-O-Nine Tails
+Celtic Cross
+Chemical Peel
+Daddy's Love
+Dead Dove
+Epic Fetus
+Fate
+Ghost Baby
+Guppy's Hair Ball
+Guppy's Tail
+Habit
+Harlequin Baby
+Holy Grail
+Holy Water
+Infestation
+IPECAC
+Jesus Juice
+Magic 8 Ball
+MEAT!
+Mitre
+Mom's Coin Purse
+Mom's Purse
+The Mulligan
+Mutant Spider
+Pageant Boy
+The Peeper
+Polyphemus
+Pyro
+Rainbow Baby
+Sacred Heart
+Sacrificial Dagger
+Scapular
+SMB Super Fan!
+Speed Ball
+Spirit of the Night
+Stem Cells
+Stigmata
+Technology 2
+Toothpicks
+Tough Love
+???'s Soul
+Ace of Spades
+Bloody Penny
+Burnt Peny
+Cain's Eye
+Cancer
+Child's Heart
+Counterfeit Penny
+Cursed Skull
+Curved Horn
+Eve's Bird Food
+Flat Penny
+Fish Head
+Goat Hoof
+Isaac's Head
+Isaac's Fork
+Judas' Tongue
+The Left Hand
+Liberty Cap
+Lucky Toe
+Maggy's Faith
+Match Stick
+A Missing Page
+Mom's Pearl
+Pinky Eye
+The Polaroid
+Push Pin
+Red Patch
+Rusted Key
+Safety Cap
+Samson's Lock
+The Tick
+Umbilical Cord
+Bad Gas
+Bad Trip
+Balls of Steel
+Bombs are Key
+Full Health
+Health Down
+Health Up
+I found pills (and ate them!)
+Pretty Fly
+Range Down
+Range Up
+Speed Down
+Speed Up
+Tears Down
+Tears Up
+Telepills
+Luck Up
+Luck Down
+Friends Till the End!
+Puberty
+The Fool
+The Magician
+The High Priestess
+The Empress
+The Emperor
+The Hierophant
+The Lovers
+The Chariot
+Justice
+The Hermit
+Wheel of Fortune
+Strength
+The Hanged Man
+Death
+Temperance
+The Devil
+The Tower
+The Stars
+The Moon
+The Sun
+Judgement
+The World
+Joker
+2 of Hearts
+2 of Spades
+2 of Clubs
+2 of Diamonds
+
 $generate
-Pill: [pill] | Tarot: [tarot] | Trinket: [trinket] | Passive: [passive]
+Pill: [pill] | Tarot: [tarot] | Trinket: [trinket] | Passive: [passive] | Activate: [activate] | All: [all]
