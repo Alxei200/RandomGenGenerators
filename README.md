@@ -17,3 +17,6 @@ http://orteil.dashnet.org/randomgen/?gen=fDPS5wcK
 
 Geometry Dash Level Idea Generator:
 http://orteil.dashnet.org/randomgen/?gen=3BeSsKdB
+
+Binding of Isaac Item Generator:
+http://orteil.dashnet.org/randomgen/?gen=QYBxJmQN
