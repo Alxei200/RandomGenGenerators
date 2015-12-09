@@ -1,0 +1,30 @@
+$name : Binding of Isaac Item Generator
+$author : Alxei200
+$description : Generates a random item. Includes pills, trinkets, and tarot cards.
+$amount : 1
+$button : Binding of ITEM!
+
+$pill
+Bad Gas
+Bad Trip
+Balls of Steel
+Bombs are Key
+Full Health
+Health Down
+Health Up
+I found pills (and ate them!)
+Pretty Fly
+Range Down
+Range Up
+Speed Down
+Speed Up
+Tears Down
+Tears Up
+Telepills
+Luck Up
+Luck Down
+Friends Till the End!
+Puberty
+
+$generate
+[pill]
