@@ -149,6 +149,19 @@ $ps
 9
 
 $rating
+Auto, 1 star.
+Easy, 2 stars.
+Normal, 3 stars.
+Hard, 4 stars.
+Hard, 5 stars.
+Harder, 6 stars.
+Harder, 7 stars.
+Insane, 8 stars.
+Insane, 9 stars.
+Easy Demon, 10 stars.
+Medium Demon, 10 stars.
+Hard Demon, 10 stars.
+Insane Demon, 10 stars.
 
 $idea
-Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Password: [ps][ps][ps][ps][ps][ps]
+Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Rating: [rating] | Password: [ps][ps][ps][ps][ps][ps]
