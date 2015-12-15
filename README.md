@@ -16,7 +16,7 @@ Terraria Item Generator:
 http://orteil.dashnet.org/randomgen/?gen=fDPS5wcK
 
 Geometry Dash Level Idea Generator:
-http://orteil.dashnet.org/randomgen/?gen=3BeSsKdB
+http://orteil.dashnet.org/randomgen/?gen=6Qm3rjiW
 
 Binding of Isaac Item Generator:
 http://orteil.dashnet.org/randomgen/?gen=H4B8d4q5
