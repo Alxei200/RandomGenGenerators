@@ -161,4 +161,4 @@ $maxhp
 99
 
 $undertale
-<p>[name]</p><p>[lv]</p><p>[maxhp]</p>
+<p>[name]</p><p>[lv]</p><p>[maxhp]</p><p>[maxhp]</p>
