@@ -4,19 +4,19 @@ Some Random Generators in orteil.dashnet.org.
 Random Generator Links:
 
 FNaF Custom Night Generator:
-http://orteil.dashnet.org/randomgen/?gen=S4Y3tBBX
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/FnaFCustomNight.txt
 
 FNaF 2 Custom Night Generator:
-http://orteil.dashnet.org/randomgen/?gen=NGPUWEez
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/FnaF2CustomNight.txt
 
 Super Smash Bros. Melee Game Generator:
-http://orteil.dashnet.org/randomgen/?gen=WFUdsd6z
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/SmashBrosMeleeGame.txt
 
 Terraria Item Generator:
-http://orteil.dashnet.org/randomgen/?gen=fDPS5wcK
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/TerrariaItems.txt
 
 Geometry Dash Level Idea Generator:
-http://orteil.dashnet.org/randomgen/?gen=6Qm3rjiW
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/GeometryDashLevelIdea.txt
 
 Binding of Isaac Item Generator:
-http://orteil.dashnet.org/randomgen/?gen=H4B8d4q5
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BindingOfIsaacItem.txt
