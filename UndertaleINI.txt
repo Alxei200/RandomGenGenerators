@@ -1,0 +1,38 @@
+$name : Undertale.ini Generator
+$author : Alxei200
+$description : Generate a new undertale.ini for testing.
+$button : Loot!
+
+$name
+Frisk
+Chara
+Sans
+Toriel
+Asriel
+Asgore
+Flowey
+Undyne
+Alphys
+Alphy
+Gaster
+Catty
+Bratty
+Temmie
+Jerry
+AAAAAA
+Papyrus
+Papyru
+Murder
+Mercy
+BPants
+Metta
+MTT
+Aaron
+Woshua
+Blooky
+Napsta
+Gerson
+Shyren
+Drak
+Gigi
+Gugu
