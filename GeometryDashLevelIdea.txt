@@ -131,10 +131,46 @@ Gray
 Rainbow
 
 $bg
+Background 1
+Background 2
+Background 3
+Background 4
+Background 5
+Background 6
+Background 7
+Background 8
+Background 9
+Background 10
+Background 11
+Background 12
+Background 13
 
 $ground
+Ground 1
+Ground 2
+Ground 3
+Ground 4
+Ground 5
+Ground 6
+Ground 7
+Ground 8
+Ground 9
+Ground 10
+Ground 11
 
 $font
+Font 1
+Font 2
+Font 3
+Font 4
+Font 5
+Font 6
+Font 7
+Font 8
+Font 9
+Font 10
+Font 11
+Font 12
 
 $ps
 0
@@ -164,4 +200,4 @@ Hard Demon, 10 stars.
 Insane Demon, 10 stars.
 
 $idea
-Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Rating: [rating] | Password: [ps][ps][ps][ps][ps][ps]
+Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Background: [bg] | Ground: [ground] | Font: [font] | Rating: [rating] | Password: [ps][ps][ps][ps][ps][ps]
