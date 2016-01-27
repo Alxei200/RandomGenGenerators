@@ -3706,4 +3706,4 @@ Shadowflame Hades Dye
 Celestial Sigil
 
 $terraria
-1: [items], 2: [items], 3: [items], 4: [items], 5: [items].
+[items]
