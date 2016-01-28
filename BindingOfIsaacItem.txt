@@ -567,4 +567,4 @@ Joker
 2 of Diamonds
 
 $generate
-Pill: [pill] | Tarot: [tarot] | Trinket: [trinket] | Passive: [passive] | Activate: [activate] | All: [all]
+<p>Pill: [pill]</p><p>Tarot: [tarot]</p><p>Trinket: [trinket]</p><p>Passive: [passive]</p><p>Activate: [activate]</p><p>All: [all]</p>
