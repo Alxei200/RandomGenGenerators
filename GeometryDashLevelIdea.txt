@@ -172,18 +172,6 @@ Font 10
 Font 11
 Font 12
 
-$ps
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
 $rating
 Auto, 1 star.
 Easy, 2 stars.
@@ -200,4 +188,4 @@ Hard Demon, 10 stars.
 Insane Demon, 10 stars.
 
 $idea
-Song: [song] | Opening Mode: A [speed] [mini] [dual] [mode]. | Closing Mode: A [speed] [mini] [dual] [mode]. | Guiding Words: [guide]. | Element: [element1] | Main Colors: [colors], and [colors]. | Background: [bg] | Ground: [ground] | Font: [font] | Rating: [rating] | Password: [ps][ps][ps][ps][ps][ps]
+<p>Song: [song]</p><p>Opening Mode: A [speed] [mini] [dual] [mode].</p><p>Closing Mode: A [speed] [mini] [dual] [mode].</p><p>Guiding Words: [guide].</p><p>Element: [element1]</p><p>Main Colors: [colors], and [colors].</p><p>Background: [bg]</p><p>Ground: [ground]</p><p>Font: [font]</p><p>Rating: [rating]</p><p>Password: [0-9][0-9][0-9][0-9][0-9][0-9]</p>
