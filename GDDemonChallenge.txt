@@ -79,4 +79,4 @@ Cataclysm (Gboy)
 Bloodbath (Riot)
 
 $finish
-<p>For 0.5 points: [robby]</p><p>For 1 point: [veryeasy]</p><p>For 2 points: [easy]</p><p>For 3 points: [medium]</p><p>For 4 points: [hard]</p><p>For 5 points: [insane]</p><p>For 10 points: [extreme]</p>
+<p>For 0.5 points: [robby]</p><p>For 1 point: [veryeasy]</p><p>For 2 points: [easy]</p><p>For 3 points: [medium]</p><p>For 5 points: [hard]</p><p>For 8 points: [insane]</p><p>For 10 points: [extreme]</p>
