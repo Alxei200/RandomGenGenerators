@@ -41,10 +41,12 @@ Demon Mixed (Oggy)
 Lights and Thunder (Lyod)
 Radioactive Demon (MrCheeseTigrr)
 Skrillex Party (Nether)
+Platinum Adventure (Jerry4Vietnam)
+Laser Room (TrueNature)
+DarnocDynamix (TheRealDarnoc)
 
 $easy
 Deadlocked (RobTop)
-Laser Room (TrueNature)
 Demon Park (MidM2coL)
 Super Cycles (Gw Jax)
 Crescendo (MasK463)
@@ -61,18 +63,37 @@ Beautiful Chaos (Darnoc2)
 Clutterfunk v2 (NePtunE)
 12 Clutterfunk (Cody)
 Dragon Force (SoRakami)
+Speed of Light (SaLaD)
+Electroman Adven v2 (NePtunE)
+Crazy Bolt (FunnyGame)
+Apocalypse Eve (MasK463)
+Mechanic Downforce (ZenthicAlpha)
+Insomnia (Glittershroom)
+StarQuake (MasK463)
+Way of the Darkness (NePtunE)
+ForceDynamix (Minesap)
+Steam Chamber (TheRealDarnoc)
+Clubdrop (TheRealDarnoc)
+-Sirius- (FunnyGame)
+Flappy Weird (Superbot)
+Toxic Sewers (Superopi)
+Clubstep v2 (NePtunE)
 
 $medium
 Nine Circles (Zobros)
 Theory of SkriLLex (Noobas)
 Extreme Fantasy (Rabb2t)
 Jawbreaker (ZenthicAlpha)
+Hexagon Force v2 (NePtunE)
+Chaoz Airflow (Sumsar)
 
 $hard
 Supersonic (ZenthicAlpha)
+Fairydust (SuperPizzaLuigi)
 
 $insane
 Windy Landscape (WOOGI)
+Rabb2t (ZenthicAlpha)
 
 $extreme
 Cataclysm (Gboy)
