@@ -1,0 +1,82 @@
+$name : Geometry Dash Demon Challenge
+$author : Alxei200 & Every Demon Creator
+$amount: 1
+$button: DEMON START!
+
+$robby
+Stereo Madness
+Back on Track
+Poltergeist
+Dry Out
+Base After Base
+Can't Let Go
+Jumper
+Time Machine
+Cycles
+xStep
+Clutterfunk
+Theory of Everything
+Electroman Adventures
+Electrodynamix
+Hexagon Force
+Blast Processing
+Geometrical Dominator
+The Seven Seas
+Viking Arena
+Airborne Robots
+
+$veryeasy
+Clubstep (RobTop)
+Theory of Everything 2 (RobTop)
+The Nightmare (Gw Jax)
+The Lightning Road (Timeless)
+yStep (TheRealDarnoc)
+xStep v2 (NePtunE)
+Speed Racer (ZenthicAlpha)
+Theory of Every v2 (NePtunE)
+Impulse (MrCheeseTigrr)
+Demon Jumper (Player)
+Chaotic (MrCheeseTigrr)
+Demon Mixed (Oggy)
+Lights and Thunder (Lyod)
+Radioactive Demon (MrCheeseTigrr)
+Skrillex Party (Nether)
+
+$easy
+Deadlocked (RobTop)
+Laser Room (TrueNature)
+Demon Park (MidM2coL)
+Super Cycles (Gw Jax)
+Crescendo (MasK463)
+Sky Realm (TheRealDarnoc)
+Hextec Flow (TheRealDarnoc)
+Buck Force (Rob Buck)
+Moon Adventure (Experience D)
+Chaoz Impact (TheRealDarnoc)
+DeCode (Rek3dge)
+Problematic (Dhafin)
+Electrodynamix v2 (NePtunE)
+Death Moon (FunnyGame)
+Beautiful Chaos (Darnoc2)
+Clutterfunk v2 (NePtunE)
+12 Clutterfunk (Cody)
+Dragon Force (SoRakami)
+
+$medium
+Nine Circles (Zobros)
+Theory of SkriLLex (Noobas)
+Extreme Fantasy (Rabb2t)
+Jawbreaker (ZenthicAlpha)
+
+$hard
+Supersonic (ZenthicAlpha)
+
+$insane
+Windy Landscape (WOOGI)
+
+$extreme
+Cataclysm (Gboy)
+Bloodbath (Riot)
+
+$finish
+<p>For 0.5 points: [robby]</p><p>For 1 point: [veryeasy]</p><p>For 2 points: [easy]</p><p>For 3 points: [medium]</p><p>For 4 points: [hard]</p><p>For 5 points: [insane]</p><p>For 10 points: [extreme]</p>
