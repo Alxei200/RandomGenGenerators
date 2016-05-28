@@ -1,0 +1,32 @@
+$name : Call of Duty Black Ops II Game Mode Generator
+$author : Alxei200
+$description : A Game Mode Generator for CODBOII. Prototype. (WIP)
+$amount : 1
+$button : Shoot!
+
+$time
+1 minute
+1.5 minutes
+2 minutes
+2.5 minutes
+[3-30] minutes
+unlimited
+
+$switch
+On
+Off
+
+$gamemode
+Team Deathmatch
+Free For All
+Domination
+Demolition
+Kill Confirmed
+Hardpoint
+Headquarters
+Capture the Flag
+Search and Destroy
+One Flag CTF
+
+$cod
+<p>Time: [time]</p><p>Hardcore: [switch]</p><p>Teams: [2-6]</p><p>Gamemode: [gamemode]</p>
