@@ -6,11 +6,16 @@ $button: Start Geometricization
 
 $song
 Bass Knight ~ BoomKitty
+Comodo ~ BoomKitty
+Pursuit ~ BoomKitty
 Allure ~ Detious
 Golden Haze ~ Detious
 The Edge ~ Detious
+Operation: Evolution ~ Dimrain47
+At the Speed of Light ~ Dimrain47
 Theory of Everything ~ dj-nate
 Club Step ~ dj-nate
+Evolution of Music ~ dj-nate
 Electrodynamix ~ dj-nate
 Robotic Nightmares ~ dj-nate
 Three Step ~ dj-nate
@@ -23,25 +28,46 @@ Base After Base ~ DJVI
 Can't Let Go ~ DJVI
 Cycles ~ DJVI
 xStep ~ DJVI
+Endorphins ~ DuoCore
 FireFrost ~ EnV
 Dynasty ~ EnV
 Pearlescent ~ EnV
 Uprise ~ EnV
 Reign ~ EnV (NameMySongForMe 4)
 Heaven Road 2 ~ EnV
+Valiant ~ EnV
+RPM ~ EnV
+Ginseng ~ EnV
 Heaven Road 3 ~ EnV
+Chinese Dance Machine 2 ~ F-777
 Deadlocked ~ F-777
 Dance of the Violins ~ F-777
 Insomnia Remix ~ F-777
+Abyss 2 ~ F-777
+Space Battle ~ F-777
+Falcon Punch ~ F-777
+Ludicrous Speed ~ F-777
+Sound of Infinity ~ F-777
 Sonic Blaster ~ F-777
 This Isn't Science Rocket ~ F-777
 Stereo Madness ~ ForeverBound
+Stereo Madness 2 ~ ForeverBound
+Summer Breeze ~ ForeverBound
+Holography ~ garlagan
+Impulse ~ garlagan
+The Empire of Toads ~ Holyyeah
+Starship Showdown ~ Holyyeah
+Okiba Crackdown ~ Holyyeah
+Eighto ~ Jomekka
 Aether ~ Jumper
 Whirlwind ~ Jumper
 Stalemate ~ KayosZX
 Lockout ~ Lockyn
 Sequence ~ Lockyn
 Soulwind ~ Lockyn
+Genesis ~ MafiaPineapple
+Freedom ~ Multex
+Gravity ~ Multex
 Eternal Eclipse ~ OcularNebula
 Glittering Shores ~ OcularNebula
 Stay Inside Me ~ OcularNebula
@@ -51,23 +77,33 @@ Infiltration ~ ParagonX9
 Chaoz Airflow ~ ParagonX9
 Jawbreaker ~ Rukkus
 Problematic ~ Rukkus
+Headrush ~ Rukkus
 For The Taking ~ Rukkus
 Fracture ~ Rukkus
 Nine Circles ~ Rukkus
 Fairydust ~ Rukkus
 Sine Wavs ~ Rukkus
+Sweet Dreams ~ Rukkus
 Spaceman ~ Rukkus
 Evil ~ Rukkus
 Astronaut 13 Remix ~ Rukkus
 Poltergeist ~ Rukkus
 211 ~ Rukkus
 Haunted ~ Shirk
+Let's Bounce ~ Shrtiga
+Phobos ~ Solkrieg
 Polargeist ~ Step
 Unity ~ TheFatRat
 Time Lapse ~ TheFatRat
 Windfall ~ TheFatRat
 Never Be Alone ~ TheFatRat
 Infinite Power ~ TheFatRat
+The Calling ~ TheFatRat
+Monody ~ TheFatRat
+Xenogenesis ~ TheFatRat
+Eurodancer ~ TMM43
+Ultimate Destruction ~ TMM43
+The 7th Day ~ TMM43
 Jumper ~ Waterflame
 Time Machine ~ Waterflame
 Clutterfunk ~ Waterflame
@@ -75,11 +111,20 @@ Electroman Adventures ~ Waterflame
 Hexagon Force ~ Waterflame
 Final Battle ~ Waterflame
 Endgame ~ Waterflame
+Radioactive ~ Waterflame
 Glorious Morning ~ Waterflame
+Toxic Sewers ~ Waterflame
+Rupture ~ Waterflame
+Space Pirates ~ Waterflame
 Supernova ~ Xtrullor
 Ichor ~ Xtrullor
+Tria ~ Xtrullor
+I Hate Everything ~ Xtrullor
+Instant Reaction ~ Xtrullor
 Redux ~ Xtrullor
 Screamroom ~ Xtrullor
+Nine Circles (Xtrullor Remix) ~ Xtrullor
+Ego Death ~ Xtrullor
 
 $speed
 Triple speed
