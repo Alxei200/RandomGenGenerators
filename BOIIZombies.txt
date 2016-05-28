@@ -1,0 +1,44 @@
+$name: COD: BOII Zombies Generator
+$author: Alxei200
+$description : Generates a zombies game
+$amount : 1
+$button : BRAAAINS
+ 
+$difficulty
+Original
+Easy
+ 
+$round
+1
+5
+10
+15
+20
+ 
+$enabledisable
+Enabled
+Disabled
+ 
+$maps
+Bus Depot: Tranzit
+Bus Depot: Survival
+Town: Grief
+Town: Survival
+Farm: Grief
+Farm: Survival
+Town: Turned
+Prison: Mob of the Dead
+Prison: Grief
+Nuketown
+Origins
+Underground: Buried
+Underground: Grief
+Underground: Turned
+Die Rise
+ 
+$loadout
+Shotgun
+Reverse Gun Game
+ 
+$generate
+<p>Map: [maps]</p><p>Difficulty: [difficulty]</p><p>Starting Round: [round]</p><p>Magic: [enabledisable]</p><p>Headshots Only: [enabledisable]</p><p>Hellhounds: [enabledisable]</p><p>Loadout: [loadout]</p>
