@@ -26,3 +26,6 @@ http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei
 
 Black Ops II Zombies Game Generator:
 http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BOIIZombies.txt
+
+Black Ops II Gamemode Generator:
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BOIINormal.txt
