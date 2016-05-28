@@ -1,4 +1,4 @@
-$name: COD: BOII Zombies Generator
+$name: COD: Black Ops II Zombies Generator
 $author: Alxei200
 $description : Generates a zombies game
 $amount : 1
