@@ -28,5 +28,38 @@ Capture the Flag
 Search and Destroy
 One Flag CTF
 
+$map
+Aftermath
+Cargo
+Carrier
+Drone
+Express
+Hijacked
+Meltdown
+Overflow
+Plaza
+Raid
+Slums
+Standoff
+Turbine
+Yemen
+Nuketown 2025
+Downhill
+Mirage
+Hydro
+Grind
+Encore
+Magma
+Vertigo
+Studio
+Uplink
+Detour
+Cove
+Rush
+Dig
+Frost
+Pod
+Takeoff
+
 $cod
-<p>Time: [time]</p><p>Hardcore: [switch]</p><p>Teams: [2-6]</p><p>Gamemode: [gamemode]</p>
+<p>Time: [time]</p><p>Hardcore: [switch]</p><p>Teams: [2-6]</p><p>Gamemode: [gamemode]</p><p>Map: [map]</p>
