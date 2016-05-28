@@ -23,3 +23,6 @@ http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei
 
 Truly Random Game Genie Code Generator:
 http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/TrueGameGenieCode.txt
+
+Black Ops II Zombies Game Generator:
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BOIIZombies.txt
