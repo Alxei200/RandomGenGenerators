@@ -1,3 +1,9 @@
+$name : Truly Random Game Genie Code Generator
+$author : Alxei200
+$description: Generates a random game genie code. May or may not work.
+$amount: 1
+$button: AAAAAA
+
 $letters
 A
 E
