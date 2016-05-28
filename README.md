@@ -20,3 +20,6 @@ http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei
 
 Binding of Isaac Item Generator:
 http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BindingOfIsaacItem.txt
+
+Truly Random Game Genie Code Generator:
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/TrueGameGenieCode.txt
