@@ -140,6 +140,24 @@ Final Destination
 Dream Land
 Kongo Jungle (Past)
 Yoshi's Island (Past)
+Choose between Princess Peach's Castle or Rainbow Cruise
+Choose between Kongo Jungle or Jungle Japes
+Choose between Termina Bay or Temple
+Choose between Yoshi's Story or Yoshi's Island
+Choose between Corneria or Venom
+Choose between Yoshi's Island or Yoshi's Island (Past)
+Choose between Kongo Jungle or Kongo Jungle (Past)
+Choose between Green Greens or Dream Land
+Choose between Brinstar or Brinstar Depths
+Choose between Fourside or Onett
+Choose between Mute City or Big Blue
+Choose between Poké Floats or Pokémon Stadium
+Choose between Mushroom Kingdom or Mushrom Kingdom II
+Choose between Battlefield or Final Destination
+Choose between Fountain of Dreams, Dream Land, or Green Greens
+Choose between Yoshi's Island, Yoshi's Story, or Yoshi's Island (Past)
+Choose between Kongo Jungle, Kongo Jungle (Past), or Jungle Japes
+Choose between Mushrom Kingdom, Mushrom Kingdom II, Rainbow Cruise, or Princess Peach's Castle
 
 $items
 Only Food
@@ -189,4 +207,4 @@ High
 Very High
 
 $smash
-[character]. The rules are [rule1], and [ratio]. [stage]. [items], [rarity].
+<p>Player 1: [character]</p><p>Player 2: [character]</p><p>Player 3: [character]</p><p>Player 4: [character]</p><p>The rules are [rule1], and [ratio].</p><p>Play on [stage].</p><p>[items], [rarity].</p>
