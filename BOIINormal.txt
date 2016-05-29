@@ -12,6 +12,83 @@ $time
 [3-30] minutes
 unlimited
 
+$score
+5 points
+10 points
+15 points
+20 points
+25 points
+30 points
+35 points
+40 points
+45 points
+50 points
+55 points
+60 points
+65 points
+70 points
+75 points
+80 points
+85 points
+90 points
+95 points
+100 points
+150 points
+200 points
+250 points
+Unlimited
+
+$pointsper
+[0-5] points
+10 points
+25 points
+
+$delay
+[0-10] seconds
+15 seconds
+20 seconds
+30 seconds
+None
+
+$lives
+[0-10] lives
+15 lives
+20 lives
+25 lives
+unlimited
+
+$rounds
+[0-9] rounds
+unlimited
+
+$health
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+90%
+95%
+100%
+110%
+120%
+125%
+130%
+140%
+150%
+160%
+170%
+175%
+180%
+190%
+200%
+
 $choice
 Yes
 No
@@ -73,4 +150,4 @@ Pod
 Takeoff
 
 $cod
-<p>Time: [time]</p><p>Hardcore: [choice]</p><p>Teams: [2-6]</p><p>Gamemode: [gamemode]</p><p>Map: [map]</p><p>Scorestreaks: [choice]</p><p>Auto Team Balance: [choice]</p><p>Team Change In-Game: [choice]</p><p>Dynamic Map Elements [choice]</p><p>Mini-Maps: [minimap]</p><p>Force Respawn: [choice]</p><p>Friendly Fire: [choice]</p><p>Headshots Only: [choice]</p><p>Hit Indicator: [choice]</p><p>Custom Classes: [choice]</p><p>Friendly Bots: [0-8]</p><p>Enemy Bots: [0-9]</p><p>Enemy Difficulty: [bots]</p>
+<p>Time: [time]</p>   <p>Score: [score]</p>   <p>Hardcore: [choice]</p>   <p>Teams: [2-6]</p>   <p>Gamemode: [gamemode]</p>   <p>Map: [map]</p>   <p>Scorestreaks: [choice]</p>   <p>Auto Team Balance: [choice]</p>   <p>Team Change In-Game: [choice]</p>   <p>Dynamic Map Elements [choice]</p>   <p>Mini-Maps: [minimap]</p>   <p>Points per Kill: [pointsper]</p>   <p>Points per Death: [pointsper]</p>  <p>Headshot Bonus Points: [pointsper]</p>   <p>Force Respawn: [choice]</p>   <p>Respawn Delay: [delay]</p>   <p>Number of Lives: [lives]</p>   <p>Number of Rounds: [rounds]</p>   <p>Health: [health]</p>   <p>Friendly Fire: [choice]</p>   <p>Headshots Only: [choice]</p>   <p>Hit Indicator: [choice]</p>   <p>Custom Classes: [choice]</p>   <p>Friendly Bots: [0-8]</p>   <p>Enemy Bots: [0-9]</p>   <p>Enemy Difficulty: [bots]</p>
