@@ -1,0 +1,76 @@
+$name : Call of Duty Black Ops II Game Mode Generator
+$author : Alxei200
+$description : A Game Mode Generator for CODBOII (v2). Only use settings that apply.
+$amount : 1
+$button : Shoot!
+
+$time
+1 minute
+1.5 minutes
+2 minutes
+2.5 minutes
+[3-30] minutes
+unlimited
+
+$choice
+Yes
+No
+
+$minimap
+Normal
+Sweeping
+Constant
+
+$bots
+Regular
+Recruit
+Hardened
+Veteran
+
+$gamemode
+Team Deathmatch
+Free For All
+Domination
+Demolition
+Kill Confirmed
+Hardpoint
+Headquarters
+Capture the Flag
+Search and Destroy
+One Flag CTF
+
+$map
+Aftermath
+Cargo
+Carrier
+Drone
+Express
+Hijacked
+Meltdown
+Overflow
+Plaza
+Raid
+Slums
+Standoff
+Turbine
+Yemen
+Nuketown 2025
+Downhill
+Mirage
+Hydro
+Grind
+Encore
+Magma
+Vertigo
+Studio
+Uplink
+Detour
+Cove
+Rush
+Dig
+Frost
+Pod
+Takeoff
+
+$cod
+<p>Time: [time]</p><p>Hardcore: [choice]</p><p>Teams: [2-6]</p><p>Gamemode: [gamemode]</p><p>Map: [map]</p><p>Scorestreaks: [choice]</p><p>Auto Team Balance: [choice]</p><p>Team Change In-Game: [choice]</p><p>Dynamic Map Elements [choice]</p><p>Mini-Maps: [minimap]</p><p>Force Respawn: [choice]</p><p>Friendly Fire: [choice]</p><p>Headshots Only: [choice]</p><p>Hit Indicator: [choice]</p><p>Custom Classes: [choice]</p><p>Friendly Bots: [0-8]</p><p>Enemy Bots: [0-9]</p><p>Enemy Difficulty: [bots]</p>
