@@ -16,7 +16,7 @@ $choice
 Yes
 No
 
-$minimaps
+$minimap
 Normal
 Sweeping
 Constant
