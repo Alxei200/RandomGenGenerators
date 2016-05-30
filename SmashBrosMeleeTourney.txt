@@ -168,21 +168,4 @@ $decision4
 [#player8] Wins, so [#player7] Loses.
 
 $smash
-<p>Welcome to [letters,x3,#tourney] 2016!</p>
-<p>This tourney has 64 entrants, including P1 (always bottom left) and P2 (always top right). Let's Smash!</p>
-<p>Game 1 Left Side... is [name,#player1] vs. [name,#player2]</p>
-<p>[#player1] mains [character]. [gimmick].</p>
-<p>[#player2] mains [character]. [gimmick].</p>
-<p>[decision1]</p>
-<p>Game 2 Left Side... is [name,#player3] vs. [name,#player4]</p>
-<p>[#player3] mains [character]. [gimmick].</p>
-<p>[#player4] mains [character]. [gimmick].</p>
-<p>[decision2]</p>
-<p>Game 3 Left Side... is [name,#player5] vs. [name,#player6]</p>
-<p>[#player5] mains [character]. [gimmick].</p>
-<p>[#player6] mains [character]. [gimmick].</p>
-<p>[decision3]</p>
-<p>Game 4 Left Side... is [name,#player7] vs. [name,#player8]</p>
-<p>[#player7] mains [character]. [gimmick].</p>
-<p>[#player8] mains [character]. [gimmick].</p>
-<p>[decision4]</p>
+<p>Welcome to [letters,x3,#tourney] 2016!</p><p>This tourney has 64 entrants, including P1 (always bottom left) and P2 (always top right). Let's Smash!</p><p>Game 1 Left Side... is [name,#player1] vs. [name,#player2]</p><p>[#player1] mains [character]. [gimmick].</p><p>[#player2] mains [character]. [gimmick].</p><p>[decision1]</p><p>Game 2 Left Side... is [name,#player3] vs. [name,#player4]</p><p>[#player3] mains [character]. [gimmick].</p><p>[#player4] mains [character]. [gimmick].</p><p>[decision2]</p><p>Game 3 Left Side... is [name,#player5] vs. [name,#player6]</p><p>[#player5] mains [character]. [gimmick].</p><p>[#player6] mains [character]. [gimmick].</p><p>[decision3]</p><p>Game 4 Left Side... is [name,#player7] vs. [name,#player8]</p><p>[#player7] mains [character]. [gimmick].</p><p>[#player8] mains [character]. [gimmick].</p><p>[decision4]</p>
