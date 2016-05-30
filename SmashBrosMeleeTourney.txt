@@ -1,0 +1,188 @@
+$name: SSBM Tournament Generator (2-P)
+$author: Alxei200
+$description: A tournament for you and your friends to play in! (this generator assumes there are 2 non-computer entrants)
+$amount: 1
+$button: Wavedash.
+
+$letters
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+$character
+Dr. Mario
+Mario
+Luigi
+Bowser
+Peach
+Yoshi
+DK
+Captain Falcon
+Ganondorf
+Falco
+Fox
+Ness
+Ice Climbers
+Kirby
+Samus
+Zelda
+Link
+Young Link
+Pichu
+Pikachu
+Jigglypuff
+Mewtwo
+Mr. Game and Watch
+Roy
+Marth
+Sheik
+
+$gimmick
+He/She has 1 secondary main, who is [character]
+He/She has 2 secondary mains, who are [character], and [character]
+He/She also secondary mains everyone
+He/She is known as the [nickname]
+He/She comes from [country]
+
+$country
+The USA
+Sweden
+Germany
+Canada
+Mexico
+Spain
+France
+Japan
+China
+Greece
+Outer Space {0.01}
+The Smash Universe {0.001}
+
+$nickname
+200% Survivor
+Hero of Smash
+GOAT
+BOAT
+WOAT
+Shit.
+
+$name
+Axiom
+Uber
+Clairvoyant
+KILLER
+SSMMAASSHH
+DeViLSpAwN
+The Great
+Complex
+HigH
+FruitSalad
+Solid State
+Diego
+Insert Name Here
+REAPER
+Phantom
+NecroDeath
+Alxei
+Suplex
+RuthlessDM
+Kidfang
+StarSwirl
+Johns
+Steam Cooked
+SPITroast
+Careful.
+Cloud
+Margik
+Dongley Knog
+GitHub
+3anana
+øscar
+Gunner
+RTtoFire
+execute()
+IKEA
+DarkKnight
+BitTorrent
+Wreckt
+Poizon
+FeVeR
+G   O   R   E
+Sub-Main
+4Stockd
+Noob
+Pro
+Level 9 Fox
+69%
+Doge
+Villain
+DESTRUCTION
+PressOne
+Sowl
+E.
+Jumpscare
+Masahiro Sakurai {0.0001}
+Mang0 {0.0001}
+Hungrybox {0.0001}
+PPMD {0.0001}
+M2K {0.001}
+Armada {0.0001}
+
+$decision1
+[#player1] Wins, so [#player2] Loses.
+[#player2] Wins, so [#player1] Loses.
+
+$decision2
+[#player3] Wins, so [#player4] Loses.
+[#player4] Wins, so [#player3] Loses.
+
+$decision3
+[#player5] Wins, so [#player6] Loses.
+[#player6] Wins, so [#player5] Loses.
+
+$decision4
+[#player7] Wins, so [#player8] Loses.
+[#player8] Wins, so [#player7] Loses.
+
+$smash
+<p>Welcome to [letters,x3,#tourney] 2016!</p>
+<p>This tourney has 64 entrants, including P1 (always bottom left) and P2 (always top right). Let's Smash!</p>
+<p>Game 1 Left Side... is [name,#player1] vs. [name,#player2]</p>
+<p>[#player1] mains [character]. [gimmick].</p>
+<p>[#player2] mains [character]. [gimmick].</p>
+<p>[decision1]</p>
+<p>Game 2 Left Side... is [name,#player3] vs. [name,#player4]</p>
+<p>[#player3] mains [character]. [gimmick].</p>
+<p>[#player4] mains [character]. [gimmick].</p>
+<p>[decision2]</p>
+<p>Game 3 Left Side... is [name,#player5] vs. [name,#player6]</p>
+<p>[#player5] mains [character]. [gimmick].</p>
+<p>[#player6] mains [character]. [gimmick].</p>
+<p>[decision3]</p>
+<p>Game 4 Left Side... is [name,#player7] vs. [name,#player8]</p>
+<p>[#player7] mains [character]. [gimmick].</p>
+<p>[#player8] mains [character]. [gimmick].</p>
+<p>[decision4]</p>
