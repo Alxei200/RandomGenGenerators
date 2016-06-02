@@ -29,3 +29,6 @@ http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei
 
 Black Ops II Gamemode Generator:
 http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/BOIINormal.txt
+
+Super Smash Bros. Melee Tourney Generator:
+http://orteil.dashnet.org/randomgen/?gen=https://raw.githubusercontent.com/Alxei200/RandomGenGenerators/master/SmashBrosMeleeTourney.txt
