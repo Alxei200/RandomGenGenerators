@@ -211,5 +211,65 @@ $decision15
 [#player29] Wins, so [#player30] Loses.
 [#player30] Wins, so [#player29] Loses.
 
+$decision16
+[#player34] Wins, so [#player35] Loses.
+[#player35] Wins, so [#player34] Loses.
+
+$decision17
+[#player36] Wins, so [#player37] Loses.
+[#player37] Wins, so [#player36] Loses.
+
+$decision18
+[#player38] Wins, so [#player39] Loses.
+[#player39] Wins, so [#player38] Loses.
+
+$decision19
+[#player40] Wins, so [#player41] Loses.
+[#player41] Wins, so [#player40] Loses.
+
+$decision20
+[#player42] Wins, so [#player43] Loses.
+[#player43] Wins, so [#player42] Loses.
+
+$decision21
+[#player44] Wins, so [#player45] Loses.
+[#player45] Wins, so [#player44] Loses.
+
+$decision22
+[#player46] Wins, so [#player47] Loses.
+[#player47] Wins, so [#player46] Loses.
+
+$decision23
+[#player48] Wins, so [#player49] Loses.
+[#player49] Wins, so [#player48] Loses.
+
+$decision24
+[#player50] Wins, so [#player51] Loses.
+[#player51] Wins, so [#player50] Loses.
+
+$decision25
+[#player52] Wins, so [#player53] Loses.
+[#player53] Wins, so [#player52] Loses.
+
+$decision26
+[#player54] Wins, so [#player55] Loses.
+[#player55] Wins, so [#player54] Loses.
+
+$decision27
+[#player56] Wins, so [#player57] Loses.
+[#player57] Wins, so [#player56] Loses.
+
+$decision28
+[#player58] Wins, so [#player59] Loses.
+[#player59] Wins, so [#player58] Loses.
+
+$decision29
+[#player60] Wins, so [#player61] Loses.
+[#player61] Wins, so [#player60] Loses.
+
+$decision30
+[#player62] Wins, so [#player63] Loses.
+[#player63] Wins, so [#player62] Loses.
+
 $smash
-<p>Welcome to [letters,x3,#tourney] 2016!</p><p>This tourney has 64 entrants, including P1 (always bottom left) and P2 (always top right). Let's Smash!</p><p>Game 1 Left Side... is [name,#player1] vs. [name,#player2]</p><p>[#player1] mains [character]. [gimmick].</p><p>[#player2] mains [character]. [gimmick].</p><p>[decision1]</p><p>Game 2 Left Side... is [name,#player3] vs. [name,#player4]</p><p>[#player3] mains [character]. [gimmick].</p><p>[#player4] mains [character]. [gimmick].</p><p>[decision2]</p><p>Game 3 Left Side... is [name,#player5] vs. [name,#player6]</p><p>[#player5] mains [character]. [gimmick].</p><p>[#player6] mains [character]. [gimmick].</p><p>[decision3]</p><p>Game 4 Left Side... is [name,#player7] vs. [name,#player8]</p><p>[#player7] mains [character]. [gimmick].</p><p>[#player8] mains [character]. [gimmick].</p><p>[decision4]</p><p>Game 5 Left Side... is [name,#player9] vs. [name,#player10]</p><p>[#player9] mains [character]. [gimmick].</p><p>[#player10] mains [character]. [gimmick].</p><p>[decision5]</p><p>Game 6 Left Side... is [name,#player11] vs. [name,#player12]</p><p>[#player11] mains [character]. [gimmick].</p><p>[#player12] mains [character]. [gimmick].</p><p>[decision6]</p><p>Game 7 Left Side... is [name,#player13] vs. [name,#player14]</p><p>[#player13] mains [character]. [gimmick].</p><p>[#player14] mains [character]. [gimmick].</p><p>[decision7]</p><p>Game 8 Left Side... is [name,#player15] vs. [name,#player16]</p><p>[#player15] mains [character]. [gimmick].</p><p>[#player16] mains [character]. [gimmick].</p><p>[decision8]</p><p>Game 9 Left Side... is [name,#player17] vs. [name,#player18]</p><p>[#player17] mains [character]. [gimmick].</p><p>[#player18] mains [character]. [gimmick].</p><p>[decision9]</p><p>Game 10 Left Side... is [name,#player19] vs. [name,#player20]</p><p>[#player19] mains [character]. [gimmick].</p><p>[#player20] mains [character]. [gimmick].</p><p>[decision10]</p><p>Game 11 Left Side... is [name,#player21] vs. [name,#player22]</p><p>[#player21] mains [character]. [gimmick].</p><p>[#player22] mains [character]. [gimmick].</p><p>[decision11]</p><p>Game 12 Left Side... is [name,#player23] vs. [name,#player24]</p><p>[#player23] mains [character]. [gimmick].</p><p>[#player24] mains [character]. [gimmick].</p><p>[decision12]</p><p>Game 13 Left Side... is [name,#player25] vs. [name,#player26]</p><p>[#player25] mains [character]. [gimmick].</p><p>[#player26] mains [character]. [gimmick].</p><p>[decision13]</p><p>Game 14 Left Side... is [name,#player27] vs. [name,#player28]</p><p>[#player27] mains [character]. [gimmick].</p><p>[#player28] mains [character]. [gimmick].</p><p>[decision14]</p><p>Game 15 Left Side... is [name,#player29] vs. [name,#player30]</p><p>[#player29] mains [character]. [gimmick].</p><p>[#player30] mains [character]. [gimmick].</p><p>[decision15]</p><p>Game 16 Left Side... is Player 1 vs. [name,#player32]</p><p>[#player32] mains [character]. [gimmick].</p>
+<p>Welcome to [letters,x3,#tourney] 2016!</p><p>This tourney has 64 entrants, including P1 (always bottom left) and P2 (always top right). Let's Smash!</p><p>Game 1 Left Side... is [name,#player1] vs. [name,#player2]</p><p>[#player1] mains [character]. [gimmick].</p><p>[#player2] mains [character]. [gimmick].</p><p>[decision1]</p><p>Game 2 Left Side... is [name,#player3] vs. [name,#player4]</p><p>[#player3] mains [character]. [gimmick].</p><p>[#player4] mains [character]. [gimmick].</p><p>[decision2]</p><p>Game 3 Left Side... is [name,#player5] vs. [name,#player6]</p><p>[#player5] mains [character]. [gimmick].</p><p>[#player6] mains [character]. [gimmick].</p><p>[decision3]</p><p>Game 4 Left Side... is [name,#player7] vs. [name,#player8]</p><p>[#player7] mains [character]. [gimmick].</p><p>[#player8] mains [character]. [gimmick].</p><p>[decision4]</p><p>Game 5 Left Side... is [name,#player9] vs. [name,#player10]</p><p>[#player9] mains [character]. [gimmick].</p><p>[#player10] mains [character]. [gimmick].</p><p>[decision5]</p><p>Game 6 Left Side... is [name,#player11] vs. [name,#player12]</p><p>[#player11] mains [character]. [gimmick].</p><p>[#player12] mains [character]. [gimmick].</p><p>[decision6]</p><p>Game 7 Left Side... is [name,#player13] vs. [name,#player14]</p><p>[#player13] mains [character]. [gimmick].</p><p>[#player14] mains [character]. [gimmick].</p><p>[decision7]</p><p>Game 8 Left Side... is [name,#player15] vs. [name,#player16]</p><p>[#player15] mains [character]. [gimmick].</p><p>[#player16] mains [character]. [gimmick].</p><p>[decision8]</p><p>Game 9 Left Side... is [name,#player17] vs. [name,#player18]</p><p>[#player17] mains [character]. [gimmick].</p><p>[#player18] mains [character]. [gimmick].</p><p>[decision9]</p><p>Game 10 Left Side... is [name,#player19] vs. [name,#player20]</p><p>[#player19] mains [character]. [gimmick].</p><p>[#player20] mains [character]. [gimmick].</p><p>[decision10]</p><p>Game 11 Left Side... is [name,#player21] vs. [name,#player22]</p><p>[#player21] mains [character]. [gimmick].</p><p>[#player22] mains [character]. [gimmick].</p><p>[decision11]</p><p>Game 12 Left Side... is [name,#player23] vs. [name,#player24]</p><p>[#player23] mains [character]. [gimmick].</p><p>[#player24] mains [character]. [gimmick].</p><p>[decision12]</p><p>Game 13 Left Side... is [name,#player25] vs. [name,#player26]</p><p>[#player25] mains [character]. [gimmick].</p><p>[#player26] mains [character]. [gimmick].</p><p>[decision13]</p><p>Game 14 Left Side... is [name,#player27] vs. [name,#player28]</p><p>[#player27] mains [character]. [gimmick].</p><p>[#player28] mains [character]. [gimmick].</p><p>[decision14]</p><p>Game 15 Left Side... is [name,#player29] vs. [name,#player30]</p><p>[#player29] mains [character]. [gimmick].</p><p>[#player30] mains [character]. [gimmick].</p><p>[decision15]</p><p>Game 16 Left Side... is Player 1 vs. [name,#player32]</p><p>[#player32] mains [character]. [gimmick].</p><p>Game 1 Right Side... is [name,#player33] vs. Player 2</p><p>[#player33] mains [character]. [gimmick].</p><p>Game 2 Right Side... is [name,#player34] vs. [name,#player35]</p><p>[#player34] mains [character]. [gimmick].</p><p>[#player35] mains [character]. [gimmick].</p><p>[decision16]</p><p>Game 3 Right Side... is [name,#player36] vs. [name,#player37]</p><p>[#player36] mains [character]. [gimmick].</p><p>[#player37] mains [character]. [gimmick].</p><p>[decision17]</p><p>Game 4 Right Side... is [name,#player38] vs. [name,#player39]</p><p>[#player38] mains [character]. [gimmick].</p><p>[#player39] mains [character]. [gimmick].</p><p>[decision18]</p><p>Game 5 Right Side... is [name,#player40] vs. [name,#player41]</p><p>[#player40] mains [character]. [gimmick].</p><p>[#player41] mains [character]. [gimmick].</p><p>[decision19]</p><p>Game 6 Right Side... is [name,#player42] vs. [name,#player43]</p><p>[#player42] mains [character]. [gimmick].</p><p>[#player43] mains [character]. [gimmick].</p><p>[decision20]</p><p>Game 7 Right Side... is [name,#player44] vs. [name,#player45]</p><p>[#player44] mains [character]. [gimmick].</p><p>[#player45] mains [character]. [gimmick].</p><p>[decision21]</p><p>Game 8 Right Side... is [name,#player46] vs. [name,#player47]</p><p>[#player46] mains [character]. [gimmick].</p><p>[#player47] mains [character]. [gimmick].</p><p>[decision22]</p><p>Game 9 Right Side... is [name,#player48] vs. [name,#player49]</p><p>[#player48] mains [character]. [gimmick].</p><p>[#player49] mains [character]. [gimmick].</p><p>[decision23]</p><p>Game 10 Right Side... is [name,#player50] vs. [name,#player51]</p><p>[#player50] mains [character]. [gimmick].</p><p>[#player51] mains [character]. [gimmick].</p><p>[decision24]</p><p>Game 11 Right Side... is [name,#player52] vs. [name,#player53]</p><p>[#player52] mains [character]. [gimmick].</p><p>[#player53] mains [character]. [gimmick].</p><p>[decision25]</p><p>Game 12 Right Side... is [name,#player54] vs. [name,#player55]</p><p>[#player54] mains [character]. [gimmick].</p><p>[#player55] mains [character]. [gimmick].</p><p>[decision26]</p><p>Game 13 Right Side... is [name,#player56] vs. [name,#player57]</p><p>[#player56] mains [character]. [gimmick].</p><p>[#player57] mains [character]. [gimmick].</p><p>[decision27]</p><p>Game 14 Right Side... is [name,#player58] vs. [name,#player59]</p><p>[#player58] mains [character]. [gimmick].</p><p>[#player59] mains [character]. [gimmick].</p><p>[decision28]</p><p>Game 15 Right Side... is [name,#player60] vs. [name,#player61]</p><p>[#player60] mains [character]. [gimmick].</p><p>[#player61] mains [character]. [gimmick].</p><p>[decision29]</p><p>Game 16 Right Side... is [name,#player62] vs. [name,#player63]</p><p>[#player62] mains [character]. [gimmick].</p><p>[#player63] mains [character]. [gimmick].</p><p>[decision30]</p>
