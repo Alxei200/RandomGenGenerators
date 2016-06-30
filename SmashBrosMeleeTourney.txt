@@ -159,11 +159,30 @@ Mamoru
 Ume
 Yohachi
 Jun
+BilboBaggins
+Slimbo
+Dragons
+Waffles
+Blooberri
+Hoomanity
+DJ
+Owlsight
+GameBoi
+SuplexDuplex
+Beens
+TUNA!
+SpaceKitty
+LeVi
+EcTaL
+Nathan
+CatOv
+V01t
+EdgeGua4d
 Masahiro Sakurai {0.0001}
 Mang0 {0.0001}
 Hungrybox {0.0001}
 PPMD {0.0001}
-M2K {0.001}
+M2K {0.0001}
 Armada {0.0001}
 
 $decision1
