@@ -50,6 +50,15 @@ Play a B+ Class character (Yoshi, DK, Link, and Young Link)
 Play a A Class character (Mario, Luigi, Ganondorf, Samus, Pikachu, and Dr. Mario)
 Play a S- Class character (Ice Climbers, Captain Falcon, Peach, and Jigglypuff)
 Play a S+ Class character (Marth, Sheik, Falco, and Fox)
+Not playing.
+This time this guy is a CPU. {75%}
+
+$color
+Normal
+1
+2
+3
+4
 
 $time
 No time {50%}
@@ -221,4 +230,4 @@ Player 3 vs Player 1, 2, and 4
 Player 4 vs Player 1, 2, and 3
 
 $smash
-<p>Player 1: [character]</p><p>Player 2: [character]</p><p>Player 3: [character]</p><p>Player 4: [character]</p><p>Teams: [team]</p><p>The rules are [time], [stock], and [ratio].</p><p>Play on [stage].</p><p>[items], [rarity].</p>
+<p>Player 1: [character], and the color is [color]</p><p>Player 2: [character], and the color is [color]</p><p>Player 3: [character], and the color is [color]</p><p>Player 4: [character], and the color is [color]</p><p>Teams: [team]</p><p>The rules are [time], [stock], and [ratio].</p><p>Play on [stage].</p><p>[items], [rarity].</p>
