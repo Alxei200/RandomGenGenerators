@@ -1,0 +1,54 @@
+$char
+Dr. Mario
+Mario
+Luigi
+Bowser
+Peach
+Yoshi
+Donkey Kong
+Captain Falcon
+Ganondorf
+Falco
+Fox
+Ness
+Ice Climbers
+Samus
+Kirby
+Zelda
+Link
+Young Link
+Sheik
+Pichu
+Pikachu
+Jigglypuff
+Mr. Game & Watch
+Marth
+Roy
+
+$attack
+Jab
+Dash Attack
+Forward Tilt
+Up Tilt
+Down Tilt
+Neutral Air
+Forward Air
+Up Air
+Down Air
+Back Air
+Up Smash
+Down Smash
+Side Smash
+Grab Pummel
+Up Throw
+Down Throw
+Forward Throw
+Back Throw
+Neutral B
+Side B
+Up B
+Down B
+Getup Attack
+
+$final
+Play as [char]. Only [attack] and [attack].
