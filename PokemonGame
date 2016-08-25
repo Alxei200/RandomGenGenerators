@@ -1,0 +1,53 @@
+$game
+Pokémon Red
+Pokémon Blue
+Pokémon Yellow
+Pokémon Gold
+Pokémon Silver
+Pokémon Crystal
+Pokémon Ruby
+Pokémon Sapphire
+Pokémon Emerald
+Pokémon Fire Red
+Pokémon Leaf Green
+Pokémon Diamond
+Pokémon Pearl
+Pokémon Platinum
+Pokémon Heart Gold
+Pokémon Soul Silver
+Pokémon Black
+Pokémon White
+Pokémon Black 2
+Pokémon White 2
+Pokémon X
+Pokémon Y
+Pokémon Omega Ruby
+Pokémon Alpha Sapphire
+
+$starter
+Grass Type
+Fire Type
+Water Type
+
+$type
+Grass
+Fire
+Water
+Fighting
+Poison
+Steel
+Bug
+Flying
+Normal
+Dark
+Psychic
+Electric
+Ground
+Rock
+Fairy
+Dragon
+Ice
+Ghost
+
+$finish
+Play [game]. Choose [starter] as a Starter. Here is the ideal types for your 6 pokemon: [type], [type], [type], [type], [type], [type].
